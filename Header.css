@@ -1,0 +1,142 @@
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #2874f0;
+  color: white;
+  position: relative;
+  z-index: 999;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.menu-icon {
+  font-size: 24px;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.brand-name {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.search-bar {
+  display: flex;
+  margin: 0 1rem;
+}
+
+.search-bar input {
+  flex: 1;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 4px 0 0 4px;
+}
+
+.search-bar button {
+  padding: 0.5rem 1rem;
+  background-color: #ff9f00;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.login-btn {
+  background: none;
+  color: white;
+  border: 1px solid white;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cart-icon {
+  font-size: 24px;
+  cursor: pointer;
+  position: relative;
+}
+
+
+/* Optional: Cart count badge */
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: red;
+  color: white;
+  padding: 2px 6px;
+  font-size: 12px;
+  border-radius: 50%;
+}
+
+
+
+.right-section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-icon {
+  position: relative;
+  color: #333;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.cart-count {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+
+.brand-with-home {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.home-icon {
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+
+.welcome-msg {
+  margin-right: 5px;
+  margin-left: 15px;
+  /* font-weight: bold; */
+  font-size: 13pt;
+  color:white; 
+}
+
+
+.nav-icon {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.my-orders-icon svg {
+  font-size: 28px;
+}
