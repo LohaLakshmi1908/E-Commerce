@@ -1,0 +1,838 @@
+[
+  {
+    "id": "FLP001",
+    "name": "Redmi Note 13 Pro 5G",
+    "image": "https://images.meesho.com/images/products/473711374/7kkcr_512.avif?width=512",
+    "images": [
+    "https://images.meesho.com/images/products/473711374/7kkcr_512.avif?width=512",
+    "https://images.meesho.com/images/products/473711374/omtpe_512.avif?width=512",
+    "https://images.meesho.com/images/products/473711374/mkrpd_512.avif?width=512"
+  ],
+    "brand": "Redmi",
+    "category": "Mobiles",
+    "price": 17999,
+    "rating": 4.3,
+    "reviews": 3456,
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "108MP Triple Camera",
+      "processor": "Snapdragon 732G"
+    }
+  },
+  {
+    "id": "FLP002",
+    "name": "HP Pavilion Ryzen 5 Laptop",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/z/o/1/-original-imahcd9h8um8zysj.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/z/o/1/-original-imahcd9h8um8zysj.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/u/e/i/-original-imahcd9hdtzdfzpn.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/e/i/-original-imahcd9hdtzdfzpn.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/f/a/x/-original-imahcd9hxtbwgeha.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/computer/f/a/x/-original-imahcd9hxtbwgeha.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "HP",
+    "category": "Electronics",
+    "price": 52990,
+    "rating": 4.2,
+    "reviews": 987,
+    "specs": {
+      "processor": "AMD Ryzen 5",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6 inch FHD",
+      "os": "Windows 11"
+    }
+  },
+  {
+    "id": "FLP003",
+    "name": "Nike Revolution 6 Running Shoes",
+    "image":"https://images.meesho.com/images/products/540969502/hi4sk_512.avif?width=360",
+    "images": [
+    "https://images.meesho.com/images/products/540969502/hi4sk_512.avif?width=360",
+    "https://images.meesho.com/images/products/540969502/rsxlj_512.avif?width=512",
+    "https://images.meesho.com/images/products/540969502/gtvow_512.avif?width=512"
+  ],
+    "brand": "Nike",
+    "category": "Fashion",
+    "price": 3599,
+    "rating": 4.5,
+    "reviews": 234,
+    "specs": {
+      "type": "Running Shoes",
+      "material": "Mesh",
+      "color": "Black/White",
+      "size": "8 UK"
+    }
+  },
+  {
+    "id": "FLP004",
+    "name": "Samsung 7 kg Washing Machine",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/w/7/a/-original-imah3ntaa7wjm3st.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/washing-machine-new/w/7/a/-original-imah3ntaa7wjm3st.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/v/u/7/-original-imah4meghygprf6y.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/v/u/7/-original-imah4meghygprf6y.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/l/q/o/-original-imagyh7dsqjvnntg.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/l/q/o/-original-imagyh7dsqjvnntg.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Samsung",
+    "category": "Home Appliances",
+    "price": 18990,
+    "rating": 4.4,
+    "reviews": 742,
+    "specs": {
+      "type": "Fully Automatic Top Load",
+      "capacity": "7 kg",
+      "technology": "Digital Inverter",
+      "warranty": "2 Years"
+    }
+  },
+  {
+    "id": "FLP005",
+    "name": "Wooden Sheesham King Bed",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/bed/p/q/t/king-208-28-na-no-190-5-rosewood-sheesham-yes-50-we-k-box-bed-original-imahdwpg26rge5pg.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/bed/p/q/t/king-208-28-na-no-190-5-rosewood-sheesham-yes-50-we-k-box-bed-original-imahdwpg26rge5pg.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/bed/u/8/n/king-218-44-gray-no-187-96-rosewood-sheesham-no-100-dsc-bd-mh-ws-original-imahcn6dw54f3hs3.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/bed/u/8/n/king-218-44-gray-no-187-96-rosewood-sheesham-no-100-dsc-bd-mh-ws-original-imahcn6dw54f3hs3.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/bed/x/6/s/king-218-44-gray-no-187-96-rosewood-sheesham-no-100-dsc-bd-mh-ws-original-imahcn6dvvgvpzph.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/bed/x/6/s/king-218-44-gray-no-187-96-rosewood-sheesham-no-100-dsc-bd-mh-ws-original-imahcn6dvvgvpzph.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Wakefit",
+    "category": "Furniture",
+    "price": 15990,
+    "rating": 4.1,
+    "reviews": 562,
+    "specs": {
+      "material": "Sheesham Wood",
+      "size": "King",
+      "storage": "Box Storage",
+      "color": "Teak Finish"
+    }
+  },
+  {
+    "id": "FLP006",
+    "name": "Sony Bravia 43 inch Smart TV",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/television/i/8/0/-original-imah2dzwa44rbqds.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/television/i/8/0/-original-imah2dzwa44rbqds.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/television/d/s/b/-original-imahfc7hzfvfabgf.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/television/d/s/b/-original-imahfc7hzfvfabgf.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/television/r/u/5/-original-imah2myzbxbzcwqx.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/television/r/u/5/-original-imah2myzbxbzcwqx.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 38999,
+    "rating": 4.6,
+    "reviews": 2045,
+    "specs": {
+      "type": "LED Smart TV",
+      "resolution": "4K Ultra HD",
+      "screen_size": "43 inch",
+      "features": "HDR, Wi-Fi, Android TV"
+    }
+  },
+  {
+    "id": "FLP007",
+    "name": "Atomic Habits by James Clear",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/j/i/w/set-of-3-self-improvement-books-ikigai-atomic-habits-manifest-original-imahczhbpgy2pcgp.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/j/i/w/set-of-3-self-improvement-books-ikigai-atomic-habits-manifest-original-imahczhbpgy2pcgp.jpeg?q=70",
+    "https://images.meesho.com/images/products/200695288/zbqa3_512.avif?width=512",
+    "https://images.meesho.com/images/products/200695288/yik0v_512.avif?width=512"
+  ],
+    "brand": "Penguin",
+    "category": "Books",
+    "price": 449,
+    "rating": 4.8,
+    "reviews": 10234,
+    "specs": {
+      "author": "James Clear",
+      "language": "English",
+      "genre": "Self Help",
+      "pages": 320
+    }
+  },
+  {
+    "id": "FLP008",
+    "name": "Lego Classic Creative Bricks",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/block-construction/0/6/t/classic-creative-happy-box-colorful-building-bricks-toy-11042-original-imah769z9evhyy29.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/block-construction/0/6/t/classic-creative-happy-box-colorful-building-bricks-toy-11042-original-imah769z9evhyy29.jpeg?q=70",
+    "https://images.meesho.com/images/products/302364152/hgkrb_512.avif?width=512",
+    "https://images.meesho.com/images/products/302364152/havdf_512.avif?width=512"
+  ],
+    "brand": "Lego",
+    "category": "Toys",
+    "price": 1599,
+    "rating": 4.7,
+    "reviews": 432,
+    "specs": {
+      "age_group": "4+ years",
+      "material": "Plastic",
+      "pieces": 221,
+      "theme": "Creative Play"
+    }
+  },
+  {
+    "id": "FLP009",
+    "name": "Aashirvaad Whole Wheat Atta 5kg",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/flour/g/a/e/-original-imahdg7b7hzgqwhu.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/flour/g/a/e/-original-imahdg7b7hzgqwhu.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/flour/e/g/g/-original-imahdg7bcefnhgch.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/flour/e/g/g/-original-imahdg7bcefnhgch.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/flour/g/r/0/-original-imahdg7bggkkxuwb.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/flour/g/r/0/-original-imahdg7bggkkxuwb.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Aashirvaad",
+    "category": "Grocery",
+    "price": 289,
+    "rating": 4.5,
+    "reviews": 1243,
+    "specs": {
+      "type": "Wheat Flour",
+      "weight": "5kg",
+      "ingredients": "100% Whole Wheat",
+      "shelf_life": "3 Months"
+    }
+  },
+  {
+    "id": "FLP010",
+    "name": "Redmi 9 Prime",
+    "image":"https://rukminim2.flixcart.com/image/416/416/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhvh6enmm9.jpeg?q=70&crop=false",
+    "images": [
+    "https://rukminim2.flixcart.com/image/416/416/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhvh6enmm9.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/832/832/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhfhy3tbp9.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhfhy3tbp9.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhsjt3dv2p.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/ke0a7ww0/mobile/4/r/e/mi-redmi-9-prime-m2004j191-original-imafushhsjt3dv2p.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Redmi",
+    "category": "Mobiles",
+    "price": 11790,
+    "rating": 4.5,
+    "reviews": 15137,
+    "specs": {
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "5020mAh",
+      "camera": "13MP + 8MP + 5MP + 2MP | 8MP Front Camera",
+      "processor": "MediaTek Helio G80"
+    }
+  },
+  {
+    "id": "FLP011",
+    "name": "Lenevo IdeaPad Slim 3 Laptop",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/v/k/y/-original-imahcd9zvhqtbzcz.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/v/k/y/-original-imahcd9zvhqtbzcz.jpeg?q=70",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASphQ59rSEwy5hpwkEhbMJOaa4qBcIbRSow&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UpqVFvTOHs4bugkJiVXS-BvDQskIu-7orQ&s"
+  ],
+    "brand": "Lenevo",
+    "category": "Electronics",
+    "price": 35000,
+    "rating": 4.5,
+    "reviews": 100,
+    "specs": {
+      "processor": "Core i3",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "15.6 inch FHD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "id": "FLP012",
+    "name": "Choli Gown Parrot",
+    "image":"https://images.meesho.com/images/products/497707554/cauja_512.webp",
+    "images": [
+    "https://images.meesho.com/images/products/497707554/cauja_512.webp",
+    "https://images.meesho.com/images/products/497680500/9xfeo_512.avif?width=512",
+    "https://images.meesho.com/images/products/497680500/grgzh_512.avif?width=512"
+  ],
+    "category": "Fashion",
+    "brand":"Western",
+    "price": 687,
+    "rating": 4.5,
+    "reviews": 57,
+    "specs": {
+      "type": "Running Shoes",
+      "Fabric" : "Georgette",
+      "color": "Green",
+      "size": "L"
+    }
+  },
+  {
+    "id": "FLP013",
+    "name": "Sophin Sunscreen - SPF 50",
+    "image":"https://images.meesho.com/images/products/403667479/u6dbb_512.webp",
+   "images": [
+    "https://images.meesho.com/images/products/403667479/u6dbb_512.webp",
+    "https://images.meesho.com/images/products/500522133/fmxgm_512.avif?width=512",
+    "https://images.meesho.com/images/products/500522133/7nmz6_512.avif?width=512"
+  ],
+    "brand": "Sophin",
+    "category": " Fashion",
+    "price": 93,
+    "rating": 3.9,
+    "reviews": 226,
+    "specs": {
+      "Skin Type" : "All Skin Types",
+      "Net Quantity (N)" : 1,
+      "Flavour" : "Vitamin E"
+    }
+  },
+  {
+    "id": "FLP014",
+    "name": "Vrino Black Shoe For Women",
+    "image":"https://images.meesho.com/images/products/134327539/mloek_512.webp",
+   "images": [
+    "https://images.meesho.com/images/products/134327539/mloek_512.webp",
+    "https://images.meesho.com/images/products/438436635/kqura_512.avif?width=512",
+    "https://images.meesho.com/images/products/438436635/81d0v_512.avif?width=512"
+  ],
+    "category": "Fashion",
+    "price": 223,
+    "rating": 3.9,
+    "brand":"Sneakers",
+    "reviews": 346,
+    "specs": {
+      "Material": "Canvas",
+      "size": "IND-5,IND-6",
+      "Pattern" : "Printed",
+      "color": "Black"
+    }
+  },
+  {
+    "id": "FLP015",
+    "name": "Smartwatch",
+    "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/n/o/z/-original-imah76jstup5zdww.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/n/o/z/-original-imah76jstup5zdww.jpeg?q=70&crop=false 1x",
+   "images": [
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/n/o/z/-original-imah76jstup5zdww.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/n/o/z/-original-imah76jstup5zdww.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/s/b/g/-original-imagg8dtgf9neabt.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/l5ld8y80/smartwatch/s/b/g/-original-imagg8dtgf9neabt.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/d/o/x/-original-imagg8dtjhphhfpw.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/l5ld8y80/smartwatch/d/o/x/-original-imagg8dtjhphhfpw.jpeg?q=70&crop=false 1x"
+  ],
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 477,
+    "rating": 3.9,
+    "reviews": 198,
+    "specs": {
+      "Material" : "ABS Plastic",
+      "Theme" : "3D/Hologram",
+      "Color" : "Black and Orange"
+    }
+  },
+  {
+    "id": "FLP016",
+    "name": "Can We Be Strangers Again?",
+    "image":"https://images.meesho.com/images/products/507409506/3nh8v_512.webp",
+    "images": [
+    "https://images.meesho.com/images/products/507409506/3nh8v_512.webp",
+    "https://images.meesho.com/images/products/544329054/6sio8_512.avif?width=512",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-rytfy04aPaQZEIdCsG8xGniKMR8RztNLw&s"
+  ],
+    "category": "Books",
+    "price": 150,
+    "rating": 4.3,
+    "brand":"Can We Be Strangers Again?",
+    "reviews": 279,
+    "specs": {
+      "author": "shrijeet shandilay",
+      "language": "English",
+      "genre": "Romance",
+      "pages": 300
+    }
+  },
+  {
+    "id": "FLP017",
+    "name": "Healthy Almonds ",
+    "image":"https://images.meesho.com/images/products/407047311/7fuhl_512.webp",
+    "images": [
+    "https://images.meesho.com/images/products/407047311/7fuhl_512.webp",
+    "https://images.meesho.com/images/products/407047311/9esav_512.avif?width=512",
+    "https://images.meesho.com/images/products/407047311/pqgtz_512.avif?width=512"
+  ],
+    "category": "Grocery",
+    "price": 308,
+    "brand":"Nutri Bug",
+    "rating": 3.9,
+    "reviews": 109,
+    "specs": {
+      "Shelf life (Best Before)" : "12 Months",
+      "Net Quantity (N)" : 1,
+      "Veg/NonVeg" : "Veg",
+      "Weight" : "250gm"
+    }
+  },
+  {
+    "id": "FLP018",
+    "name": "Dancing Talking Cactus Toy",
+    "image":"https://images.meesho.com/images/products/544005679/fvni5_400.webp",
+    "images": [
+    "https://images.meesho.com/images/products/544005679/fvni5_400.webp",
+    "https://images.meesho.com/images/products/557135219/jdhd5_512.avif?width=512",
+    "https://images.meesho.com/images/products/418347519/xkavj_512.avif?width=360"
+  ],
+    "category": "Toys",
+    "price": 386,
+    "brand":"Emoin",
+    "rating": 4.5,
+    "reviews": 51,
+    "specs": {
+      "Type" : "Sound Toys",
+      "age_group": "0-2 years",
+      "Material" : "Plush",
+      "Colour" : "Green"
+    }
+  },
+{
+    "id": "FLP019",
+    "name": "GAMLOID Capital Alphabets Letters",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/block-construction/8/r/r/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahc7k2zmkgapjs.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/block-construction/8/r/r/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahc7k2zmkgapjs.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/block-construction/r/4/m/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahbb74j2sx4cqd.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/block-construction/r/4/m/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahbb74j2sx4cqd.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/block-construction/f/5/n/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahbb74ksztuamn.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/block-construction/f/5/n/capital-alphabets-letters-learning-educational-puzzle-toy-for-original-imahbb74ksztuamn.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Toys",
+    "price": 137,
+    "brand":"GAMLOID",
+    "rating": 4,
+    "reviews": 365,
+    "specs": {
+      "Type" : "Board Game",
+      "age_group": "1 years",
+      "Material" : "Wood",
+      "Colour" : "Multi Color"
+    }
+  },
+  {
+    "id": "FLP020",
+    "name": "Heavy Duty Cooling And Pure Air Filter AC",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/air-conditioner-new/7/y/7/-original-imahdgf6yzaehzh5.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/air-conditioner-new/7/y/7/-original-imahdgf6yzaehzh5.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/h/t/l/-original-imahdgf6xwrekzfb.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/air-conditioner-new/h/t/l/-original-imahdgf6xwrekzfb.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/z/u/r/-original-imahdgf65fw5hzjg.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/air-conditioner-new/z/u/r/-original-imahdgf65fw5hzjg.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Electronics",
+    "price": 31490,
+    "brand":"Godrej",
+    "rating": 4,
+    "reviews": 1432,
+    "specs": {
+      "Type" : "Split",
+      "Model Name": "AC 1.5T EI 18P3T WZT",
+      "Cooling Capacity" : "4800 W",
+      "Colour" : "White"
+    }
+  },
+   {
+    "id": "FLP021",
+    "name": "Women Flats Sandal",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/n/j/m/7-164-40-dressberry-green-original-imah6bgtvgp8gs7w.jpeg?q=70",
+   "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/n/j/m/7-164-40-dressberry-green-original-imah6bgtvgp8gs7w.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/n/j/m/7-164-40-dressberry-green-original-imah6bgtvgp8gs7w.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/n/j/m/7-164-40-dressberry-green-original-imah6bgtvgp8gs7w.jpeg?q=70"
+  ],
+    "category": "Fashion",
+    "price": 699,
+    "brand":"DressBerry",
+    "rating": 4.5,
+    "reviews": 57,
+    "specs": {
+      "Type" : "Flat",
+      "Size" : "UK/India-5,6,7",
+      "Colour" : "Green"
+    }
+  },
+  {
+    "id": "FLP022",
+    "name": "OPPO Reno14 5G ",
+    "image":"https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/k/w/c/-original-imahdzg7rrpztry8.jpeg?q=90",
+    "images": [
+    "https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/k/w/c/-original-imahdzg7rrpztry8.jpeg?q=90",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrw6tyjKKqO-sZZMu_lbxiW7qckaVjfZUc1jHHmdAfPM_HiEW6LynJsF1Ep33YcL2uzys&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NqyeP9ipZWDSCrss5WZmQla-qk_dfwraUA&s"
+  ],
+    "category": "Mobiles",
+    "price": 36999,
+    "brand":"Oppo",
+    "rating": 4.7,
+    "reviews": 17,
+    "specs": {
+      "Storage" : "256GB",
+      "RAM" : "12GB",
+      "Colour" : "Green",
+      "Battery" : "6000 mAh"
+    }
+  },
+  {
+    "id": "FLP023",
+    "name": "Drawstring Walking Shoes For Boys & Girls",
+    "image":"https://images.meesho.com/images/products/489488407/ptjwy_512.avif?width=512",
+   "images": [
+    "https://images.meesho.com/images/products/489488407/ptjwy_512.avif?width=512",
+    "https://images.meesho.com/images/products/489488407/bf5rm_512.avif?width=512",
+    "https://images.meesho.com/images/products/489488407/vigmm_512.avif?width=512"
+  ],
+    "category": "Fashion",
+    "price": 399,
+    "brand":"HOOH",
+    "rating": 4.7,
+    "reviews": 67,
+    "specs": {
+      "age_group" : "2 to 2.5 Years",
+      "Colour" : "White",
+      "Size by Age" : "12-18 Months(4c),12-18 Months(5c),12-18 Months(6c),12-18 Months(7c),12-18 Months(8c)"
+    }
+  },
+  {
+    "id": "FLP024",
+    "name": "UPF Healthy Hen Brown Eggs",
+    "image":"https://rukminim2.flixcart.com/image/612/612/jy7kyvk0/egg/y/s/j/6-healthy-eggs-brown-upf-original-imafght9rqzbt7up.jpeg?q=70",
+   "images": [
+    "https://rukminim2.flixcart.com/image/612/612/jy7kyvk0/egg/y/s/j/6-healthy-eggs-brown-upf-original-imafght9rqzbt7up.jpeg?q=70",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprvgj413eSc8j3jBYaQBLaKf5b25GcOEZMw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyobz_qF-nswwYjXpHXF_N2ezWfkwR6F0OQ&s"
+  ],
+    "category": "Grocery",
+    "price": 99,
+    "brand":"UPF",
+    "rating":3.9,
+    "reviews": 84,
+    "specs": {
+      "Model Number" : "Healthy Eggs Brown",
+      "Quantity" : "6 Units",
+      "Container Type" : "Bulk Pack"
+    }
+  },
+  {
+    "id": "FLP025",
+    "name": "Fortune Immunity Blended Oil Pouch ",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/edible-oil/x/t/r/-original-imagh3mezaztdyvn.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/edible-oil/x/t/r/-original-imagh3mezaztdyvn.jpeg?q=70",
+    "data:image/jpeg;base64,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",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/edible-oil/x/t/r/-original-imagh3mezaztdyvn.jpeg?q=70"
+  ],
+    "category": "Grocery",
+    "price": 190,
+    "brand":"Fortune",
+    "rating":4.3,
+    "reviews": 682,
+    "specs": {
+      "Model Number" : "Xpert Pro Immunity",
+      "Quantity" : "1 L",
+      "Food Preference" : "Vegetarian"
+    }
+  },
+  {
+    "id": "FLP026",
+    "name": "Sunfeast YiPPee!",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/noodle/o/n/j/-original-imahbfzm74gabtgb.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/noodle/o/n/j/-original-imahbfzm74gabtgb.jpeg?q=70",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKF4nXv0AORwY-NjWmYbaCEjwcKwyxgiz3RNx7FCnJ_7kIHAmWRrqEtYxYE0Vc0dE6ic&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3Xjvr7JUGF6hPBR-Kh72SCMDOCpsAH4iA8puLXfBbgYKuC_zNG25SFQPKh0-luGez5o&usqp=CAU"
+  ],
+    "category": "Grocery",
+    "price": 42,
+    "brand":"Sunfeast YiPPee!",
+    "rating":4.3,
+    "reviews": 150,
+    "specs": {
+      "Model Name" : "Magic Masala with Added Veggies",
+      "Quantity" : "280g",
+      "Food Preference" : "Vegetarian"
+    }
+  },
+  {
+    "id": "FLP027",
+    "name": "AB de Villiers - The Autobiography",
+    "image":"https://rukminim2.flixcart.com/image/612/612/kzpw2vk0/book/f/l/e/ab-the-autobiography-original-imagbnqzztxemaf4.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/832/832/kzpw2vk0/book/f/l/e/ab-the-autobiography-original-imagbnqzztxemaf4.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/kzpw2vk0/book/f/l/e/ab-the-autobiography-original-imagbnqzztxemaf4.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/k6pd7680/book/7/6/6/ab-the-autobiography-original-imafp3uzeqazmse6.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/k6pd7680/book/7/6/6/ab-the-autobiography-original-imafp3uzeqazmse6.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/kzpw2vk0/book/f/l/e/ab-the-autobiography-original-imagbnqzztxemaf4.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/kzpw2vk0/book/f/l/e/ab-the-autobiography-original-imagbnqzztxemaf4.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Books",
+    "price": 603,
+    "brand":"Cricket",
+    "rating":4.7,
+    "reviews": 201,
+    "specs": {
+      "Author Name" : "AB Devilliers",
+      "language" : "English",
+      "Genre" : "Biography & Autobiography"
+    }
+  },
+    {
+    "id": "FLP028",
+    "name": "Thirukkural ",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/g/y/3/thirukkural-moolamum-ooraiyum-original-imagrsyywu324ary.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/g/y/3/thirukkural-moolamum-ooraiyum-original-imagrsyywu324ary.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/g/y/3/thirukkural-moolamum-ooraiyum-original-imagrsyywu324ary.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/regionalbooks/g/y/3/thirukkural-moolamum-ooraiyum-original-imagrsyywu324ary.jpeg?q=70"
+  ],
+    "category": "Books",
+    "price": 410,
+    "brand":"Tamilar Urai",
+    "rating":4.6,
+    "reviews": 201,
+    "specs": {
+      "Author Name" : "Parimellagar Urai",
+      "language" : "Tamil",
+      "No.of Pages" : "504"
+    }
+  },
+  {
+    "id": "FLP029",
+    "name": "Tom and Jerry",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/action-figure/x/m/u/3-tom-and-jerry-bobblehead-cute-cartoon-action-figures-gtrp-12-original-imagzyfyx9msnzey.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/action-figure/x/m/u/3-tom-and-jerry-bobblehead-cute-cartoon-action-figures-gtrp-12-original-imagzyfyx9msnzey.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/action-figure/x/m/u/3-tom-and-jerry-bobblehead-cute-cartoon-action-figures-gtrp-12-original-imagzyfyx9msnzey.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/action-figure/x/m/u/3-tom-and-jerry-bobblehead-cute-cartoon-action-figures-gtrp-12-original-imagzyfyx9msnzey.jpeg?q=70"
+  ],
+    "category": "Toys",
+    "price": 642,
+    "brand":"Tom & Jerry",
+    "rating":4.8,
+    "reviews": 201,
+    "specs": {
+      "Type" : "Bobble Heads",
+      "age_group" : "3 years",
+      "Material" : "Plastic"
+    }
+  },
+  {
+    "id": "FLP030",
+    "name": "Fusilli Pasta",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/pasta/e/a/u/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4qcxyfgwdh.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/pasta/e/a/u/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4qcxyfgwdh.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/pasta/1/o/x/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4qbefeycf2.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/pasta/1/o/x/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4qbefeycf2.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/pasta/b/u/v/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4q3fjxyuph.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/pasta/b/u/v/400-cooklite-pasta-suji-regular-1-ashok-original-imahdq4q3fjxyuph.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Grocery",
+    "price": 97,
+    "brand":"Ashok",
+    "rating":4.2,
+    "reviews": 182,
+    "specs": {
+      "Type" : "Fusilli",
+      "Quantity" : "400 g",
+      "Food Preference" : "Vegetarian"
+    }
+  },
+  {
+    "id": "FLP031",
+    "name": "Complan",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/milk-drink-mix/k/h/p/-original-imahb299fzvypdht.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/milk-drink-mix/k/h/p/-original-imahb299fzvypdht.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/milk-drink-mix/l/p/r/-original-imahy57gjggjxbym.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/milk-drink-mix/l/p/r/-original-imahy57gjggjxbym.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/milk-drink-mix/9/x/1/-original-imaha8dhtgv4zgxj.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/milk-drink-mix/9/x/1/-original-imaha8dhtgv4zgxj.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Grocery",
+    "price": 295,
+    "brand":"Complan",
+    "rating":4.4,
+    "reviews": 310,
+    "specs": {
+      "Container Type" : "Carton",
+      "Quantity" : "500 g",
+      "Flavor" : "Kesar,Badam"
+    }
+  },
+  {
+    "id": "FLP032",
+    "name": "Men Analog Watch ",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/watch/m/0/e/1-ld-bk0054-ocean-silicone-strap-black-rustet-men-original-imahd7zmj3m7hmyw.jpeg?q=70",
+   "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/m/0/e/1-ld-bk0054-ocean-silicone-strap-black-rustet-men-original-imahd7zmj3m7hmyw.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/x/n/t/1-ld-bk0054-ocean-silicone-strap-black-rustet-men-original-imahd7zmzdnsvt98.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/d/d/r/1-ld-bk0054-ocean-silicone-strap-black-rustet-men-original-imahd7zmqgdtwkht.jpeg?q=70&crop=false"
+  ],
+    "category": "Electronics",
+    "price": 283,
+    "brand":"Rustet",
+    "rating":4.5,
+    "reviews": 235,
+    "specs": {
+      "Color" : "Green",
+      "Type" : "Silicone"
+    }
+  },
+  {
+    "id": "FLP033",
+    "name": "MOTOROLA g05",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/a/b/-original-imah83eztbdcsknu.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/a/b/-original-imah83eztbdcsknu.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/b/g/-original-imah83eztkpkxfz5.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/b/g/-original-imah83eztkpkxfz5.jpeg?q=70&crop=false 1x",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/v/n/g05-pb790000in-motorola-original-imah83fjgmufezbu.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/1/v/n/g05-pb790000in-motorola-original-imah83fjgmufezbu.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Mobiles",
+    "price": 7299,
+    "brand":"Moto",
+    "rating":4.2,
+    "reviews": 2915,
+    "specs": {
+      "Color" : "Forest Green",
+      "RAM" : "4 GB",
+      "Storage":"64 GB"
+    }
+  },
+  {
+    "id": "FLP034",
+    "name": "Samsung Refrigerator",
+    "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/a/b/m/-original-imah4c6pdgbgq2kt.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/312/312/xif0q/refrigerator-new/a/b/m/-original-imah4c6pdgbgq2kt.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator-new/5/p/d/-original-imah4c6pgubjqjyg.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/s/c/r/-original-imah4c6pgntafhfr.jpeg?q=70&crop=false 2x, https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator-new/s/c/r/-original-imah4c6pgntafhfr.jpeg?q=70&crop=false 1x"
+  ],
+    "category": "Electronics",
+    "price": 17290,
+    "brand":"Samsung",
+    "rating":4.5,
+    "reviews": 5564,
+    "specs": {
+      "Color" : "Red",
+      "capacity" : "183 L"
+    }
+  },
+   {
+    "id": "FLP035",
+    "name": "Butterfly Gas Stove",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/gas-stove/t/v/b/3-6-8-trio-butterfly-40-manual-original-imags8pjyazghbzg.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/gas-stove/t/v/b/3-6-8-trio-butterfly-40-manual-original-imags8pjyazghbzg.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/kvzkosw0hlty2aw/gas-stove/h/u/0/8906022173659-butterfly-original-imag8srptecgsvhz.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…9/-original-imagrzvgusepuufg.jpeg?q=70&crop=false"
+  ],
+    "category": "Electronics",
+    "price": 3664,
+    "brand":"Butterfly",
+    "rating":4.5,
+    "reviews": 12,
+    "specs": {
+      "Type" : "Manual Gas Stove",
+      "Color" : "Black"
+    }
+  },
+  {
+    "id": "FLP036",
+    "name": "Pond's Powder",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/talc/c/t/t/-original-imahaf8gquzyvj4v.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/talc/c/t/t/-original-imahaf8gquzyvj4v.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…n/-original-imahaf8gshcfuf4a.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…n/-original-imahaf8gzvrr54ny.jpeg?q=70&crop=false"
+  ],
+    "category": "Fashion",
+    "price": 149,
+    "brand":"Pond",
+    "rating":4.5,
+    "reviews": 12,
+    "specs": {
+      "Quantity" :"200 g",
+      "Color" : "Green"
+    }
+  },
+  {
+    "id": "FLP037",
+    "name": "Dining Chairs",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/dining-chair/z/6/d/43-18-2-cream-rosewood-sheesham-43-18-9-sc-27-jh-decore-86-36-original-imah8ybjwbhs4ysq.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/dining-chair/z/6/d/43-18-2-cream-rosewood-sheesham-43-18-9-sc-27-jh-decore-86-36-original-imah8ybjwbhs4ysq.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…sh-original-imagsss9zk3fjhyn.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…sh-original-imagsss9zu6gdamp.jpeg?q=70&crop=false"
+  ],
+    "category": "Furniture",
+    "price": 5886,
+    "brand":"Jh Decore",
+    "rating":4.1,
+    "reviews": 18,
+    "specs": {
+      "Number of Chairs" :"2",
+      "Bush Included" : "Yes"
+    }
+  },
+  {
+    "id": "FLP038",
+    "name": "Wood Three Seater Sofa",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/sofa-sectional/t/p/8/symmetrical-78-74-cream-color-182-88-cotton-no-25-af-sofa3-original-imah43n9duq8z9ya.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/sofa-sectional/t/p/8/symmetrical-78-74-cream-color-182-88-cotton-no-25-af-sofa3-original-imah43n9duq8z9ya.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…er-original-imah8kbvayjhtmw3.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…er-original-imah8kbvm9dghbmh.jpeg?q=70&crop=false"
+  ],
+    "category": "Furniture",
+    "price": 12999,
+    "brand":"Jh Decore",
+    "rating":4.2,
+    "reviews": 34,
+    "specs": {
+      "capacity" :"3 seater",
+      "Bush Included" : "Yes"
+    }
+  },
+  {
+    "id": "FLP039",
+    "name": " 3 Door Wardrobe",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/u/0/b/no-45-112-particle-board-78-mjoyce3dr112wbcwn-brown-nilkamal-180-original-imahcpkrc5jgqjzt.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/u/0/b/no-45-112-particle-board-78-mjoyce3dr112wbcwn-brown-nilkamal-180-original-imahcpkrc5jgqjzt.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…w/-original-imahddtpzhsvrz3q.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…3/-original-imahddtpb9chqxhf.jpeg?q=70&crop=false"
+  ],
+    "category": "Furniture",
+    "price": 12990,
+    "brand":"Jh Decore",
+    "rating":3.9,
+    "reviews": 81,
+    "specs": {
+      "No.of Shelves" :"3",
+      "Mirror Included" : "Yes"
+    }
+  },
+   {
+    "id": "FLP040",
+    "name": "TV Unit With Storage Shelves",
+    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/tv-entertainment-unit/f/4/k/particle-board-sm-tvu-fortune-ltw-sivom-lyon-teak-white-original-imagtffvydbtrxqu.jpeg?q=70",
+    "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/tv-entertainment-unit/f/4/k/particle-board-sm-tvu-fortune-ltw-sivom-lyon-teak-white-original-imagtffvydbtrxqu.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…te-original-imagtffvakhgbhbg.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…te-original-imagtffvhpyajdry.jpeg?q=70&crop=false"
+  ],
+    "category": "Furniture",
+    "price": 4799,
+    "brand":"BLUEWUD",
+    "rating":4,
+    "reviews": 160,
+    "specs": {
+      "No.of open Shelves" :"2",
+      "No.of closed Shelves" :"2",
+      "Ideal TV Size" : "55 inch"
+    }
+  },
+  {
+  "id": "FLP041",
+  "name": "Cool Jacket",
+  "brand": "WinterWear",
+  "category": "Fashion",
+  "price": 1999,
+  "rating": 4.7,
+  "reviews": 142,
+  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/k/y/l/l-no-ssai01blackgrey-the-indian-shop-original-imagxzufvvgufdxg.jpeg?q=70",
+  "images": [
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/k/y/l/l-no-ssai01blackgrey-the-indian-shop-original-imagxzufvvgufdxg.jpeg?q=70",
+    "https://rukminim2.flixcart.com/image/128/128/xif0q…op-original-imagxzufygwafykz.jpeg?q=70&crop=false",
+    "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/k/y/l/l-no-ssai01blackgrey-the-indian-shop-original-imagxzufvvgufdxg.jpeg?q=70"
+  ],
+  "specs": {
+    "Material": "Polyester",
+    "Fit": "Regular",
+    "Size": "M, L, XL"
+  }
+}
+]
